@@ -1,0 +1,23 @@
+.bg-primary {
+    background-color: #007db1 !important;
+}
+
+.text-primary {
+    color: #007db1 !important; 
+}
+
+a {
+    color: #007db1;
+}
+
+a:hover {
+    color: #007db1;
+}
+
+.social-icons a:hover {
+    background-color: #007db1;
+}
+
+.bullets {
+    list-style: circle;
+}
