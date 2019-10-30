@@ -21,3 +21,11 @@ a:hover {
 .bullets {
     list-style: circle;
 }
+
+.list-inline-item {
+    list-style-type: circle;
+}
+
+.dev-icons {
+    font-size: 2rem;
+}
